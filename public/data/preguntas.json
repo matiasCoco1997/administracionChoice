@@ -36,7 +36,7 @@
     ],
     "respuesta_correcta": "Mediante un proceso formal"
   },
-   {
+  {
     "pregunta": "El objetivo de una linea base es la de",
     "opciones": [
       "Impedir los cambios que generen un impacto desmesurado dentro del proyecto",
@@ -45,23 +45,17 @@
       "Gestionar los elementos de configuración producidos durante la vida del proyecto",
       "Todas las anteriores son correctas",
       "Ninguna de las anteriores es correcta"
-
     ],
     "respuesta_correcta": "Controlar los cambios sin impedir aquellos que estan debidamente justificados"
   },
   {
     "pregunta": "Las actividades de Gestión de Riesgos pertenecen a:",
-    "opciones": [
-      "Procesos orientados al desarrollo de software"
-    ],
+    "opciones": ["Procesos orientados al desarrollo de software"],
     "respuesta_correcta": "Procesos orientados al desarrollo de software"
   },
   {
     "pregunta": "La sprint Review es la reunión en la cual participan el equipo de Scrum y el Product Owner, siendo la participación del Scrum Master opcional, donde se evalúa el 'QUE' se hizo en el sprint mediante una demo al cliente.",
-    "opciones": [
-      "Verdadero",
-      "Falso"
-    ],
+    "opciones": ["Verdadero", "Falso"],
     "respuesta_correcta": "Falso"
   },
 
@@ -104,7 +98,7 @@
     ],
     "respuesta_correcta": "Medida cuantitativa del grado en el que un sistema, componente o proceso posee un atributo determinado."
   },
-  
+
   {
     "pregunta": "Las diferencias entre medición, medida, métrica e indicador son las siguientes",
     "opciones": [
@@ -163,7 +157,6 @@
       "Por proyecto y por recurso",
       "Solamente por recurso",
       "Ninguna de las anteriores"
-
     ],
     "respuesta_correcta": "Por proyecto y por recurso"
   },
@@ -215,7 +208,7 @@
       "El esfuerzo es una métrica orientada al tamaño",
       "Los puntos de función es una métrica orientada al tamaño",
       "Todas las anteriores son correctas",
-      "Ninguna de las anteriores es correcta"      
+      "Ninguna de las anteriores es correcta"
     ],
     "respuesta_correcta": "Ninguna de las anteriores es correcta"
   },
@@ -281,21 +274,251 @@
   },
 
   {
-    "pregunta": "",
+    "pregunta": "En un MCV Incremental, marque la opción correcta",
     "opciones": [
-      ""
+      "Se entregan funcionalidades completas en cada incremento",
+      "El sistema se entrEga con funcionalidades basicas, y las mismas van evolucionado en cada entrega",
+      "Ninguna",
+      "Se deben tener todos los requerimientos al inicio para poder empezar"
     ],
-    "respuesta_correcta": ""
+    "respuesta_correcta": "Se entregan funcionalidades completas en cada incremento"
   },
 
   {
-    "pregunta": "En un MCV Incremental, marque la opción correcta",
+    "pregunta": "Camino crítico es *",
     "opciones": [
-      ""
+      "Todas son correctas",
+      "Las actividades que tienen riego muy alto.",
+      "Conjunto de actividades que definen la duracion del proyecto",
+      "La sumatorias de las actividades que tienen Holgura igual a 1 (uno)",
+      "Las actividades que de demorarse, se posterga la fecha de fin de proyecto."
     ],
+    "respuesta_correcta": "Las actividades que de demorarse, se posterga la fecha de fin de proyecto."
+  },
+
+  {
+    "pregunta": "Marque la opción incorrecta sobre EDT (WBS) *",
+    "opciones": [
+      "No define secuencia.",
+      "El nivel más alto de cada división se llama paquete de trabajo",
+      "Organigrama jerárquico del proyecto donde se subdivide el mismo en menores componentes",
+      "Consiste en dividir en componentes menores para facilitar la planificación y control"
+    ],
+    "respuesta_correcta": "El nivel más alto de cada división se llama paquete de trabajo"
+  },
+
+  {
+    "pregunta": "¿Qué es IEEE 1074?",
+    "opciones": [
+      "Un estándar para la gestión de bases de datos",
+      "Un estándar para el desarrollo de hardware",
+      "Un estándar para la gestión de procesos de ingeniería de sistemas",
+      "Un estándar para la programación orientada a objetos"
+    ],
+    "respuesta_correcta": "Un estándar para la gestión de procesos de ingeniería de sistemas"
+  },
+
+  {
+    "pregunta": "Caracteristica/s de los distintos tipos de recursos que se analizan en la planificación: *",
+    "opciones": [
+      "Soluciones o componentes en la Nube",
+      "Componentes de software reutilizables",
+      "Oficinas",
+      "Habilidades del personal",
+      "Entornos",
+      "Todas las opciones"
+    ],
+    "respuesta_correcta": "Todas las opciones"
+  },
+
+  {
+    "pregunta": "Los beneficios de descomponer el problema son: *",
+    "opciones": [
+      "Se puede obtener la fecha de fin de proyecto con un margen de error de +/- 5%",
+      "Entender que se debe hacer y como se va a hacer",
+      "Facilita la estimación",
+      "Aumenta la probabilidad de éxito"
+    ],
+    "respuesta_correcta": "Entender que se debe hacer y como se va a hacer / Facilita la estimación / Aumenta la probabilidad de éxito"
+  },
+
+  {
+    "pregunta": "Los tipos de dependencias entre tareas pueden ser",
+    "opciones": [
+      "Mandatorias, discrecionales, transitorias y permanentes",
+      "Directas, indirectas, externas e internas",
+      "Heredadas, implícitas, externas y transitorias",
+      "Opcionales, discrecionales, externas e internas",
+      "Mandatorias/Obligatorias, discrecionales, externas e internas"
+    ],
+    "respuesta_correcta": "Mandatorias/Obligatorias, discrecionales, externas e internas"
+  },
+
+  {
+    "pregunta": "Cual no es una característica de los riesgos",
+    "opciones": ["No podemos evitarlos"],
+    "respuesta_correcta": "No podemos evitarlos"
+  },
+
+  {
+    "pregunta": "Clasificación de riesgos inicial es:",
+    "opciones": ["Conocidos", "Predecibles", "Impredecibles"],
+    "respuesta_correcta": "Conocidos / Predecibles / Impredecibles"
+  },
+
+  {
+    "pregunta": "Si digo: 'combina procedimientos y herramientas para gestionar las versiones de los objetos de configuración creados durante el proceso del software'. Estoy hablando de:",
+    "opciones": [
+      "Control de cambios",
+      "Control de versiones",
+      "Proceso de control de cambios",
+      "Team Foundation Server",
+      "Todas las anteriores son correctas",
+      "Ninguna de las anteriores es correcta"
+    ],
+    "respuesta_correcta": "Control de versiones"
+  },
+
+  {
+    "pregunta": "Para una exitosa gestión de Proyectos se sugiere:",
+    "opciones": [
+      "Hacer un buen seguimiento del progreso en todo momento",
+      "Mantener y motivar al personal para evitar o minimizar la rotación",
+      "No importa sino se entiende el problema, podemos arrancar y después vemos",
+      "Una vez que el Proyecto finaliza archivar todo. Al pasado pisado!",
+      "Evitar un análisis de riesgos ya que es muy costoso, con lo que es ahora podemos agregar más funcionalidades"
+    ],
+    "respuesta_correcta": "Hacer un buen seguimiento del progreso en todo momento / Mantener y motivar al personal para evitar o minimizar la rotación"
+  },
+
+  {
+    "pregunta": "Marque la opción correcta sobre EDT (Estructura de desglose de trabajo) (WBS)",
+    "opciones": [
+      "Consiste en dividir en componentes menores para facilitar la planificación y control",
+      "Organigrama jerárquico del proyecto donde se subdivide el mismo en menores componentes",
+      "El nivel más alto de cada división se llama paquete de trabajo",
+      "No define secuencia"
+    ],
+    "respuesta_correcta": "Consiste en dividir en componentes menores para facilitar la planificación y control / Organigrama jerárquico del proyecto donde se subdivide el mismo en menores componentes / No define secuencia"
+  },
+
+  {
+    "pregunta": "Los procesos y actividades para la gestión de proyectos minimizan la probabilidad de fracaso garantizando el éxito del proyecto.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Falso"
+  },
+
+  {
+    "pregunta": "La selección de un ciclo de vida implica el establecimiento de un orden de ejecución de las distintas actividades, marcadas por el proceso e involucradas en el proyecto",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Verdadero"
+  },
+
+  {
+    "pregunta": "Un marco de proceso me define las actividades esenciales con un propósito específico que puedo utilizar dentro del ciclo de vida del proyecto, pero no me define ni obliga a utilizar herramientas",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Verdadero"
+  },
+
+  {
+    "pregunta": "Para la gestión de proyectos un proceso debe tener una salida explícita bien definida, pero puede carecer de entradas",
+    "opciones": ["Falso", "Verdadero"],
+    "respuesta_correcta": "Falso"
+  },
+
+  {
+    "pregunta": "Descomponer el problema facilita el refinamiento y la evaluación, lo cual nos garantiza mas detalle al momento de estimar, el famoso divide y vencerás",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Verdadero"
+  },
+
+  {
+    "pregunta": "Los equipos centralizados generan mas y mejores soluciones que los individuales, por lo tanto son mejores para problemas complejos",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Verdadero"
+  },
+
+  {
+    "pregunta": "Existe un modelo de madurez para las personas llamado People-CMM",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Verdadero"
+  },
+
+  {
+    "pregunta": "Cuando se selecciona un modelo de Proceso, se debe asegurar de implementar todos los subprocesos y realizar todas las actividades que el modelo propone.",
+    "opciones": ["Verdadero", "Falso"],
+    "respuesta_correcta": "Falso"
+  },
+
+  {
+    "pregunta": "¿Cuál es el objetivo principal de IEEE 1074?",
+    "opciones": [
+      "Mejorar la velocidad de procesamiento de los sistemas",
+      "Ayudar a los ingenieros de sistemas a desarrollar sistemas más eficientes, eficaces y de alta calidad",
+      "Reducir los costos de hardware en proyectos de ingeniería",
+      "Aumentar la seguridad en redes de computadoras"
+    ],
+    "respuesta_correcta": "Ayudar a los ingenieros de sistemas a desarrollar sistemas más eficientes, eficaces y de alta calidad"
+  },
+
+  {
+    "pregunta": "¿Cuáles son las cuatro categorías definidas por IEEE 1074?",
+    "opciones": [
+      "Diseño, Implementación, Pruebas, Mantenimiento",
+      "Planificación, Implementación, Evaluación, Gestión",
+      "Análisis, Desarrollo, Integración, Despliegue",
+      "Requisitos, Arquitectura, Codificación, Verificación"
+    ],
+    "respuesta_correcta": "Planificación, Implementación, Evaluación, Gestión"
+  },
+
+  {
+    "pregunta": "¿Qué incluyen los procesos de planificación según IEEE 1074?",
+    "opciones": [
+      "Codificación y depuración del software",
+      "Definición de objetivos, requisitos, planificación de recursos e identificación de riesgos",
+      "Pruebas de unidad y de integración",
+      "Mantenimiento y actualización del software"
+    ],
+    "respuesta_correcta": "Definición de objetivos, requisitos, planificación de recursos e identificación de riesgos"
+  },
+
+  {
+    "pregunta": "¿Qué es la Ingeniería de Software?",
+    "opciones": [
+      "El diseño de hardware para computadoras",
+      "La aplicación práctica del conocimiento científico en el diseño, construcción y mantenimiento de programas de computadoras",
+      "La gestión de redes de computadoras",
+      "El estudio de algoritmos matemáticos"
+    ],
+    "respuesta_correcta": "La aplicación práctica del conocimiento científico en el diseño, construcción y mantenimiento de programas de computadoras"
+  },
+
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una ventaja de definir un proceso de software?",
+    "opciones": [
+      "Mejora la coordinación y la comunicación",
+      "Permite estimar costos y tiempos con mayor precisión",
+      "Garantiza que no habrá errores en el software",
+      "Proporciona oportunidades de aprendizaje y mejora continua"
+    ],
+    "respuesta_correcta": "Garantiza que no habrá errores en el software"
+  },
+
+  {
+    "pregunta": "¿Qué es la 'regla 90-90' en la gestión de proyectos de software?",
+    "opciones": [
+      "El 90% del código se escribe en el 90% del tiempo del proyecto",
+      "El primer 90% del sistema consume el 90% del tiempo y esfuerzo, y el último 10% requiere el otro 90%",
+      "El 90% de los errores se encuentran en el 90% final del desarrollo",
+      "El 90% del presupuesto se gasta en el 90% inicial del proyecto"
+    ],
+    "respuesta_correcta": "El primer 90% del sistema consume el 90% del tiempo y esfuerzo, y el último 10% requiere el otro 90%"
+  },
+
+  {
+    "pregunta": "",
+    "opciones": [""],
     "respuesta_correcta": ""
   }
-
 ]
-
-
