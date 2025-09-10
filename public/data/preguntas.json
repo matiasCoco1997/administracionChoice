@@ -1,0 +1,301 @@
+[
+  {
+    "pregunta": "Marque la opción correcta sobre los MCV",
+    "opciones": [
+      "El ciclo de vida en Cascada es divisible mientras que el incremental y el evolutivo no lo son",
+      "El ciclo de vida en evolutivo, al igual que el incremental, es divisible y con alcance bien definido.",
+      "Todos los ciclos de vida con alcance bien definidos son divisibles.",
+      "Los ciclos de vida que evolucionan a incrementos o de manera modular son fácilmente divisibles.",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Los ciclos de vida que evolucionan a incrementos o de manera modular son fácilmente divisibles."
+  },
+  {
+    "pregunta": "En un proyecto de Software la relación gente trabajo",
+    "opciones": [
+      "Es una relación lineal",
+      "Es una relación dependiente",
+      "Es una relación independiente",
+      "Es una relación no lineal",
+      "Es una relación con distribución triangular",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Es una relación no lineal"
+  },
+  {
+    "pregunta": "Como se puede modificar un elemento de configuración de una línea base establecida",
+    "opciones": [
+      "Mediante la autorización del manager del proyecto",
+      "Mediante una sesión grupal de todo el equipo para analizar los riesgos e impactos",
+      "Mediante un proceso casi informal, siempre y cuando se comunique adecuadamente",
+      "Mediante un proceso formal",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Mediante un proceso formal"
+  },
+   {
+    "pregunta": "El objetivo de una linea base es la de",
+    "opciones": [
+      "Impedir los cambios que generen un impacto desmesurado dentro del proyecto",
+      "Controlar los cambios sin impedir aquellos que estan debidamente justificados",
+      "Controlar los cambios a efectos de mantener el alcance dentro de los acordado en el plan de gestión",
+      "Gestionar los elementos de configuración producidos durante la vida del proyecto",
+      "Todas las anteriores son correctas",
+      "Ninguna de las anteriores es correcta"
+
+    ],
+    "respuesta_correcta": "Controlar los cambios sin impedir aquellos que estan debidamente justificados"
+  },
+  {
+    "pregunta": "Las actividades de Gestión de Riesgos pertenecen a:",
+    "opciones": [
+      "Procesos orientados al desarrollo de software"
+    ],
+    "respuesta_correcta": "Procesos orientados al desarrollo de software"
+  },
+  {
+    "pregunta": "La sprint Review es la reunión en la cual participan el equipo de Scrum y el Product Owner, siendo la participación del Scrum Master opcional, donde se evalúa el 'QUE' se hizo en el sprint mediante una demo al cliente.",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "respuesta_correcta": "Falso"
+  },
+
+  {
+    "pregunta": "Las actividades de la gestión de configuración son",
+    "opciones": [
+      "Identificación, control de cambios y versiones, implementación y supervision, generación de informes de estado",
+      "Identificación, control de cambios y versiones, análisis y evaluación de impactos, generación de informes de estado",
+      "Revisión, control de cambios y versiones, gestión de elementos de configuración, generación de informes de estado",
+      "Identificación, gestión de elementos de configuración, auditoria de la configuración, comunicación efectiva",
+      "Identificación, control de cambios y versiones, auditoria de la configuración, generación de informes de estado",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Identificación, control de cambios y versiones, auditoria de la configuración, generación de informes de estado"
+  },
+
+  {
+    "pregunta": "Las razones por la que medimos y posteriormente utilizamos métricas son",
+    "opciones": [
+      "Caracterizar, evaluar, predecir y mejorar",
+      "Estimar, recopilar, evaluar y mejorar",
+      "Predecir, evaluar, supervisar y mejorar",
+      "Identificar, analizar, medir y mejorar",
+      "Cuantificar, analizar, evaluar y mejorar",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "Caracterizar, evaluar, predecir y mejorar"
+  },
+
+  {
+    "pregunta": "Una métrica es ",
+    "opciones": [
+      "Acción o acto de medir",
+      "Proceso mediante el cual se asignan número o símbolos a los atributos de las entidades del mundo real",
+      "Proporciona un indicio cuantitativo de la extensión, cantidad, dimensión, capacidad o tamaño de algún atributo de un producto o proceso",
+      "Medida cuantitativa del grado en el que un sistema, componente o proceso posee un atributo determinado.",
+      "Permite a los gerentes de los proyectos aplicar ajustes para hacer las cosas mejor.",
+      "Conjunto de métricas que proporcionan comprensión acerca del proceso, proyecto o producto software."
+    ],
+    "respuesta_correcta": "Medida cuantitativa del grado en el que un sistema, componente o proceso posee un atributo determinado."
+  },
+  
+  {
+    "pregunta": "Las diferencias entre medición, medida, métrica e indicador son las siguientes",
+    "opciones": [
+      "Medición es el acto de determinar una medida, la cual mediante la aplicación de algún cálculo se transforma en una métrica que proporciona una indicación cuantitativa de algún atributo y un conjunto de métricas nos da un indicador.",
+      "Medición es el acto de medir del cual se obtiene una métrica, la cual mediante la aplicación de algún cálculo se transforma en una medida y un conjunto de medidas nos da un indicador.",
+      "Medición es el acto de determinar una métrica, la cual mediante la aplicación de algún calculo se transforma en una medida que proporciona una indicación cuantitativa de algún atributo y un conjunto de métricas y medidas nos da un indicador.",
+      "Hay dos más y paja de escribir",
+      "Ninguna de las anteriores es correcta"
+    ],
+    "respuesta_correcta": "Medición es el acto de determinar una métrica, la cual mediante la aplicación de algún calculo se transforma en una medida que proporciona una indicación cuantitativa de algún atributo y un conjunto de métricas y medidas nos da un indicador."
+  },
+
+  {
+    "pregunta": "Seleccione la opción que mas se acerque a la definición de “Reunion de Planificación” (Planning Meeting)",
+    "opciones": [
+      "Se realiza al inicio del proyecto y se estiman todos los PBI (Historia de usuario) para luego distribuirlos en los sprints",
+      "Se realiza al inicio de cada sprint donde se define que se va a construir y como, y se define el incremento",
+      "El scrum master selecciona que probables PBI (Historias de usuario) se podrían construir y valida con el equipo",
+      "El product owner selecciona que probables PBI (Historias de usuario) se podrían construir y valida con el equipo.",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Se realiza al inicio de cada sprint donde se define que se va a construir y como, y se define el incremento"
+  },
+
+  {
+    "pregunta": "Marque cuales son Artefactos de Scrum",
+    "opciones": [
+      "Product Backlog",
+      "Development Backlog Item",
+      "Sprint Planning",
+      "Retrospective Meeting",
+      "Sprint backlog",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "Product Backlog & Sprint backlog"
+  },
+
+  {
+    "pregunta": "La diferencia de Fast Tracking con Crashing es:",
+    "opciones": [
+      "Fast Tracking es acelerar los tiempos planificados de desarrollo, mientras que Crashing es comprimir las tareas acortando su duración lo más posible",
+      "Fast Tracking es agregar más recursos al camino crítico para reducir su duración, mientras que Crashing es paralelizar las tareas del camino crítico a fin de acelerar los tiempos del proyecto",
+      "Fast tracking implica la paralelizacion de tarea del camino critico y crashing es ajustar o incrementar los recursos mientras se comprimen los tiempos planificados siempre manteniendo el alcance original",
+      "Fast Tracking y Crashing son lo mismo depende de como lo llama una u otra bibliografía",
+      "Fast Tracking es agregar mas recursos para permitir incrementar la holgura a fin de no afectar la fecha de finalización del proyecto, mientras que Crashing es paralelizar las tareas a fin de acelerar los tiempos del proyecto y reducir esa fecha",
+      "Ninguna de las anteriores es correcta"
+    ],
+    "respuesta_correcta": "Fast tracking implica la paralelizacion de tarea del camino critico y crashing es ajustar o incrementar los recursos mientras se comprimen los tiempos planificados siempre manteniendo el alcance original"
+  },
+
+  {
+    "pregunta": "Seleccione la opción mas adecuada. MS Project me permite asignar Calendarios a",
+    "opciones": [
+      "Solamente por proyecto",
+      "Por proyecto y por recurso",
+      "Solamente por recurso",
+      "Ninguna de las anteriores"
+
+    ],
+    "respuesta_correcta": "Por proyecto y por recurso"
+  },
+
+  {
+    "pregunta": "¿Que caracteriticas no pueden faltar para considerar un producto software de calidad?",
+    "opciones": [
+      "Satisfacción del usuario",
+      "Cumplimiento de los requisitos",
+      "Eficiencia",
+      "Portabilidad",
+      "Todas las anteriores son correctas",
+      "Ninguna de las anteriores"
+    ],
+    "respuesta_correcta": "Satisfacción del usuario & Cumplimiento de los requisitos"
+  },
+
+  {
+    "pregunta": "¿Qué factores de la calidad determina el “Grado en el que es posible controlar el acceso de persona no autorizadas al software o a los datos”?",
+    "opciones": [
+      "Corrección",
+      "Confiabilidad",
+      "Eficacia",
+      "Integridad",
+      "Usabilidad",
+      "Flexibilidad"
+    ],
+    "respuesta_correcta": "Integridad"
+  },
+
+  {
+    "pregunta": "El control de calidad afecta directamente ",
+    "opciones": [
+      "El producto",
+      "El proceso",
+      "Auditoria",
+      "Integridad",
+      "Todas las anteriores son correctas",
+      "Ninguna es correcta"
+    ],
+    "respuesta_correcta": "El producto"
+  },
+
+  {
+    "pregunta": "Las métricas orientadas al tamaño",
+    "opciones": [
+      "Son difíciles de recolectar",
+      "Son independientes del leguaje de programación",
+      "El esfuerzo es una métrica orientada al tamaño",
+      "Los puntos de función es una métrica orientada al tamaño",
+      "Todas las anteriores son correctas",
+      "Ninguna de las anteriores es correcta"      
+    ],
+    "respuesta_correcta": "Ninguna de las anteriores es correcta"
+  },
+
+  {
+    "pregunta": "Son tipos de estructuras de equipo",
+    "opciones": [
+      "Centralizado controlado",
+      "Descentralizado democrático",
+      "Descentralizado controlado",
+      "Descentralizado descontrolado",
+      "Equipos disfuncionales",
+      "Centralizado democráticion"
+    ],
+    "respuesta_correcta": "Centralizado controlado & Descentralizado democrático & Descentralizado controlado"
+  },
+
+  {
+    "pregunta": "En un proyecto Software la relación gente trabajo",
+    "opciones": [
+      "Es una relación atipica",
+      "Es una relación lineal",
+      "Es una relación dependiente",
+      "Es una relación independiente",
+      "Ninguna"
+    ],
+    "respuesta_correcta": "Ninguna"
+  },
+
+  {
+    "pregunta": "En relación con la metodología para seleccionar el MCV visto en clase, marque la opción correcta",
+    "opciones": [
+      "Se evaluan 20 criterios agrupados por 4 categorias",
+      "Cada uno de los criterios se evalua por Bajo, Medio y Alto",
+      "Para seleccionar un MCV de debe hacer el promedio del resultado de los MCV seleccionados",
+      "Se puede seleccionar algunas categorias, no es obligatorio selccionar todas",
+      "El valor mas alto es MCV recomendado para utilizar"
+    ],
+    "respuesta_correcta": "El valor mas alto es MCV recomendado para utilizar"
+  },
+
+  {
+    "pregunta": "Es una forma de estimacion",
+    "opciones": [
+      "Juicio experto",
+      "3 Valores (Pert)",
+      "Paramétrica",
+      "Calculo de Reversa",
+      "Heurística"
+    ],
+    "respuesta_correcta": "Juicio experto & 3 Valores (Pert) & Paramétrica"
+  },
+
+  {
+    "pregunta": "Un equipo de alto rendimiento se caracteriza por",
+    "opciones": [
+      "Las problemáticas deben adecuarse a las habilidades",
+      "Confianza entre sus miembros",
+      "Para mantener la union del equipo, los conformistas deben ser excluidos",
+      "Ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "Confianza entre sus miembros"
+  },
+
+  {
+    "pregunta": "",
+    "opciones": [
+      ""
+    ],
+    "respuesta_correcta": ""
+  },
+
+  {
+    "pregunta": "En un MCV Incremental, marque la opción correcta",
+    "opciones": [
+      ""
+    ],
+    "respuesta_correcta": ""
+  }
+
+]
+
+
