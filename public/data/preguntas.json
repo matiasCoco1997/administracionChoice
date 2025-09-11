@@ -517,6 +517,28 @@
   },
 
   {
+    "pregunta": "Según John Reel, ¿cuál de las siguientes NO es una señal de peligro en proyectos de software?",
+    "opciones": [
+      "Falta de comprensión de las necesidades del software",
+      "Gestión inadecuada de cambios",
+      "Fechas de entrega poco realistas",
+      "Exceso de personal con habilidades adecuadas"
+    ],
+    "respuesta_correcta": "Exceso de personal con habilidades adecuadas"
+  },
+
+  {
+    "pregunta": "¿Qué es la estimación PERT?",
+    "opciones": [
+      "Una técnica para estimar el costo total del proyecto",
+      "Un método para calcular el número de líneas de código",
+      "Una técnica probabilística para estimar la duración de las actividades",
+      "Un sistema para medir la productividad del equipo de desarrollo"
+    ],
+    "respuesta_correcta": "Una técnica probabilística para estimar la duración de las actividades"
+  },
+
+  {
     "pregunta": "",
     "opciones": [""],
     "respuesta_correcta": ""
