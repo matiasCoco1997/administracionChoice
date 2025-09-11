@@ -539,6 +539,507 @@
   },
 
   {
+    "pregunta": "¿Cuál es la diferencia entre la Fecha Resultante y la Fecha Estipulada en la planificación de proyectos?",
+    "opciones": [
+      "La Fecha Resultante se estima hacia adelante, la Fecha Estipulada se estima hacia atrás",
+      "La Fecha Resultante es impuesta por el cliente, la Fecha Estipulada es calculada por el equipo",
+      "La Fecha Resultante es para proyectos pequeños, la Fecha Estipulada para proyectos grandes",
+      "No hay diferencia, son términos intercambiables"
+    ],
+    "respuesta_correcta": "La Fecha Resultante se estima hacia adelante, la Fecha Estipulada se estima hacia atrás"
+  },
+
+  {
+    "pregunta": "¿Qué es la descomposición en la estimación de proyectos de software?",
+    "opciones": [
+      "La división del equipo en grupos más pequeños",
+      "La separación del hardware y el software",
+      "La división del proyecto en elementos más manejables para su estimación",
+      "La eliminación de funcionalidades no esenciales"
+    ],
+    "respuesta_correcta": "La división del proyecto en elementos más manejables para su estimación"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de estimación mencionado en el texto?",
+    "opciones": [
+      "Estimación basada en el problema",
+      "Estimación basada en el proceso",
+      "Estimación basada en casos de uso",
+      "Estimación basada en el cliente"
+    ],
+    "respuesta_correcta": "Estimación basada en el cliente"
+  },
+
+  {
+    "pregunta": "¿Qué es la gestión del riesgo en la ingeniería de software?",
+    "opciones": [
+      "La eliminación completa de todos los riesgos posibles",
+      "La identificación y manejo de los posibles riesgos que pueden afectar el éxito de un proyecto",
+      "La contratación de seguros para cubrir posibles pérdidas",
+      "La asignación de toda la responsabilidad al cliente"
+    ],
+    "respuesta_correcta": "La identificación y manejo de los posibles riesgos que pueden afectar el éxito de un proyecto"
+  },
+
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre las estrategias reactivas y proactivas de gestión de riesgos?",
+    "opciones": [
+      "Las reactivas son más efectivas que las proactivas",
+      "Las proactivas se implementan después de que ocurren los problemas",
+      "Las reactivas abordan los problemas una vez que han ocurrido, las proactivas buscan prevenirlos",
+      "No hay diferencia significativa entre ambas estrategias"
+    ],
+    "respuesta_correcta": "Las reactivas abordan los problemas una vez que han ocurrido, las proactivas buscan prevenirlos"
+  },
+
+  {
+    "pregunta": "¿Qué es el proceso de post-desarrollo en ingeniería de software?",
+    "opciones": [
+      "El proceso de pruebas del software",
+      "Las actividades realizadas después de la construcción del software, incluyendo instalación, operación, soporte, mantenimiento y retiro",
+      "La fase de diseño del software",
+      "El proceso de documentación del código"
+    ],
+    "respuesta_correcta": "Las actividades realizadas después de la construcción del software, incluyendo instalación, operación, soporte, mantenimiento y retiro"
+  },
+
+  {
+    "pregunta": "¿Cuál es el propósito principal de la gestión de la configuración del software?",
+    "opciones": [
+      "Aumentar la velocidad de desarrollo del software",
+      "Reducir los costos del proyecto",
+      "Gestionar los cambios a lo largo del ciclo de vida del software",
+      "Mejorar la interfaz de usuario del software"
+    ],
+    "respuesta_correcta": "Gestionar los cambios a lo largo del ciclo de vida del software"
+  },
+
+  {
+    "pregunta": "En el contexto de la ingeniería de software, ¿qué es un prototipo desechable?",
+    "opciones": [
+      "Un software que se usa solo una vez",
+      "Una versión del software que se descarta después de las pruebas",
+      "Una implementación parcial utilizada para identificar los requisitos del sistema y luego desechada",
+      "Un modelo de hardware que se usa para probar el software"
+    ],
+    "respuesta_correcta": "Una implementación parcial utilizada para identificar los requisitos del sistema y luego desechada"
+  },
+
+  {
+    "pregunta": "¿Qué caracteriza al modelo en espiral en el desarrollo de software?",
+    "opciones": [
+      "Es un enfoque lineal y secuencial",
+      "Se basa en el análisis de riesgos y la estructuración del proceso en ciclos iterativos",
+      "No permite cambios una vez que se ha iniciado el desarrollo",
+      "Se enfoca exclusivamente en la fase de codificación"
+    ],
+    "respuesta_correcta": "Se basa en el análisis de riesgos y la estructuración del proceso en ciclos iterativos"
+  },
+
+  {
+    "pregunta": "¿Qué es el Desarrollo Rápido de Aplicaciones (DRA)?",
+    "opciones": [
+      "Un modelo de proceso de desarrollo de software lineal secuencial enfocado en ciclos de desarrollo cortos",
+      "Una técnica para escribir código más rápidamente",
+      "Un método para reducir el tiempo de pruebas del software",
+      "Una estrategia para eliminar la fase de diseño en el desarrollo de software"
+    ],
+    "respuesta_correcta": "Un modelo de proceso de desarrollo de software lineal secuencial enfocado en ciclos de desarrollo cortos"
+  },
+
+  {
+    "pregunta": "En el enfoque de los '4P' del proceso de software, ¿qué representa la 'P' de 'Proceso'?",
+    "opciones": [
+      "Programación",
+      "Pruebas",
+      "La serie de pasos y actividades para definir, diseñar, desarrollar, implementar y mantener un software",
+      "Presupuesto"
+    ],
+    "respuesta_correcta": "La serie de pasos y actividades para definir, diseñar, desarrollar, implementar y mantener un software"
+  },
+
+  {
+    "pregunta": "¿Cuál es uno de los principales objetivos de la descomposición del problema en la gestión de proyectos de software?",
+    "opciones": [
+      "Aumentar la complejidad del proyecto",
+      "Dividir un problema complejo en problemas más pequeños y manejables",
+      "Eliminar la necesidad de documentación",
+      "Reducir el número de desarrolladores necesarios"
+    ],
+    "respuesta_correcta": "Dividir un problema complejo en problemas más pequeños y manejables"
+  },
+
+  {
+    "pregunta": "¿Qué es un 'gestor de proyecto' en el contexto de la ingeniería de software?",
+    "opciones": [
+      "Una herramienta de software para la gestión de tareas",
+      "Una persona que se encarga de gestionar un proyecto desde la fase inicial hasta la final",
+      "Un sistema automatizado de asignación de recursos",
+      "Un consultor externo que solo supervisa el proyecto"
+    ],
+    "respuesta_correcta": "Una persona que se encarga de gestionar un proyecto desde la fase inicial hasta la final"
+  },
+
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de organigrama mencionado en los apuntes para equipos de software?",
+    "opciones": [
+      "Descentralizado democrático",
+      "Descentralizado controlado",
+      "Centralizado controlado",
+      "Centralizado democrático"
+    ],
+    "respuesta_correcta": "Centralizado democrático"
+  },
+
+  {
+    "pregunta": "¿Qué es la 'estimación paramétrica' en la gestión de proyectos de software?",
+    "opciones": [
+      "Una técnica que utiliza parámetros físicos del hardware",
+      "Un método que usa métricas basadas en proyectos anteriores para estimar nuevos proyectos",
+      "Una estimación basada únicamente en la opinión de expertos",
+      "Un enfoque que solo considera el número de líneas de código"
+    ],
+    "respuesta_correcta": "Un método que usa métricas basadas en proyectos anteriores para estimar nuevos proyectos"
+  },
+
+  {
+    "pregunta": "¿Qué representa la sigla COCOMO en el contexto de la estimación de proyectos de software?",
+    "opciones": [
+      "Código Complejo de Modelado",
+      "Construcción de Componentes Modulares",
+      "Modelo Constructivo de Costes",
+      "Control de Calidad de Módulos"
+    ],
+    "respuesta_correcta": "Modelo Constructivo de Costes"
+  },
+
+  {
+    "pregunta": "¿Cuál es la principal ventaja de utilizar una Estructura de Desglose de Trabajo (EDT/WBS) en la planificación de proyectos?",
+    "opciones": [
+      "Garantiza que el proyecto se complete antes de tiempo",
+      "Elimina la necesidad de estimación de costos",
+      "Facilita la planificación y el control al subdividir el proyecto en componentes manejables",
+      "Automatiza completamente el proceso de desarrollo"
+    ],
+    "respuesta_correcta": "Facilita la planificación y el control al subdividir el proyecto en componentes manejables"
+  },
+
+  {
+    "pregunta": "¿Qué es el 'Fast Tracking' en la gestión de proyectos de software?",
+    "opciones": [
+      "Una técnica para escribir código más rápidamente",
+      "Un método para reducir el tiempo de pruebas",
+      "Realizar actividades en paralelo que normalmente se harían en secuencia",
+      "Contratar más desarrolladores para acelerar el proyecto"
+    ],
+    "respuesta_correcta": "Realizar actividades en paralelo que normalmente se harían en secuencia"
+  },
+
+  {
+    "pregunta": "¿Cuál es el propósito principal de un Plan RSGR en la gestión de riesgos de software?",
+    "opciones": [
+      "Aumentar los riesgos del proyecto",
+      "Documentar los pasos y estrategias para manejar los riesgos identificados",
+      "Eliminar completamente todos los riesgos posibles",
+      "Justificar el aumento del presupuesto del proyecto"
+    ],
+    "respuesta_correcta": "Documentar los pasos y estrategias para manejar los riesgos identificados"
+  },
+
+  {
+    "pregunta": "¿Qué significa la técnica de estimación PERT?",
+    "opciones": [
+      "Proceso de Estimación Rápida de Tareas",
+      "Programa de Evaluación y Revisión Técnica",
+      "Plan Estratégico de Recursos Tecnológicos",
+      "Proyección Estadística de Resultados Temporales"
+    ],
+    "respuesta_correcta": "Programa de Evaluación y Revisión Técnica"
+  },
+
+  {
+    "pregunta": "En el contexto de la gestión de riesgos, ¿qué es un 'riesgo conocido'?",
+    "opciones": [
+      "Un riesgo que solo conoce el gerente del proyecto",
+      "Un riesgo que se puede identificar mediante una evaluación cuidadosa del plan del proyecto y el entorno",
+      "Un riesgo que ha ocurrido en todos los proyectos anteriores",
+      "Un riesgo que no se puede mitigar"
+    ],
+    "respuesta_correcta": "Un riesgo que se puede identificar mediante una evaluación cuidadosa del plan del proyecto y el entorno"
+  },
+
+  {
+    "pregunta": "¿Cuál es la diferencia entre los riesgos del proyecto y los riesgos técnicos en el desarrollo de software?",
+    "opciones": [
+      "Los riesgos del proyecto afectan la planificación y los costos, los riesgos técnicos afectan la calidad y la planificación del software",
+      "Los riesgos del proyecto solo afectan al equipo de desarrollo, los riesgos técnicos afectan al cliente",
+      "Los riesgos del proyecto son predecibles, los riesgos técnicos son siempre impredecibles",
+      "No hay diferencia, son términos intercambiables"
+    ],
+    "respuesta_correcta": "Los riesgos del proyecto afectan la planificación y los costos, los riesgos técnicos afectan la calidad y la planificación del software"
+  },
+
+  {
+    "pregunta": "¿Cuál es el propósito principal de la evaluación de viabilidad en la planificación de proyectos de software?",
+    "opciones": [
+      "Determinar el salario de los desarrolladores",
+      "Elegir el lenguaje de programación a utilizar",
+      "Validar el ámbito del proyecto en términos de dimensiones tecnológicas, financiamiento, tiempo y recursos disponibles",
+      "Decidir el nombre del producto final"
+    ],
+    "respuesta_correcta": "Validar el ámbito del proyecto en términos de dimensiones tecnológicas, financiamiento, tiempo y recursos disponibles"
+  },
+
+  {
+    "pregunta": "¿Cuál es la ventaja principal del modelo en espiral para el desarrollo de software?",
+    "opciones": [
+      "No permite cambios después de la fase de diseño",
+      "Se basa en ciclos iterativos y análisis de riesgos",
+      "Reduce la necesidad de pruebas de integración",
+      "Es un modelo secuencial sin retroalimentación"
+    ],
+    "respuesta_correcta": "Se basa en ciclos iterativos y análisis de riesgos"
+  },
+
+  {
+    "pregunta": "En la gestión de proyectos, ¿qué tipo de dependencia se establece por elección del equipo de gestión?",
+    "opciones": ["Externa", "Interna", "Discrecional", "Obligatoria"],
+    "respuesta_correcta": "Discrecional"
+  },
+
+  {
+    "pregunta": "¿Qué es un 'riesgo conocido' en la gestión de riesgos de software?",
+    "opciones": [
+      "Un riesgo imposible de mitigar",
+      "Un riesgo que ha sido identificado mediante evaluación del plan y entorno",
+      "Un riesgo relacionado exclusivamente con el cliente",
+      "Un riesgo que ocurre en todos los proyectos de software"
+    ],
+    "respuesta_correcta": "Un riesgo que ha sido identificado mediante evaluación del plan y entorno"
+  },
+
+  {
+    "pregunta": "¿Cuál es el principal desafío en la estimación de proyectos de software?",
+    "opciones": [
+      "Falta de herramientas automáticas",
+      "La incertidumbre y las variables técnicas, humanas y políticas",
+      "La falta de experiencia en el equipo",
+      "La cantidad de personal disponible"
+    ],
+    "respuesta_correcta": "La incertidumbre y las variables técnicas, humanas y políticas"
+  },
+
+  {
+    "pregunta": "¿Qué técnica permite dividir un proyecto en componentes manejables y jerarquizados?",
+    "opciones": [
+      "Análisis de riesgos",
+      "Estimación por Puntos de Función",
+      "Estructura de Desglose de Trabajo (WBS)",
+      "Juicio experto"
+    ],
+    "respuesta_correcta": "Estructura de Desglose de Trabajo (WBS)"
+  },
+
+  {
+    "pregunta": "¿Qué modelo de desarrollo combina elementos del modelo cascada con la filosofía de prototipado?",
+    "opciones": [
+      "Modelo en espiral",
+      "Modelo incremental",
+      "Modelo iterativo",
+      "Modelo en V"
+    ],
+    "respuesta_correcta": "Modelo en espiral"
+  },
+
+  {
+    "pregunta": "¿Cuál es el objetivo principal del modelo en cascada?",
+    "opciones": [
+      "Desarrollar el software de manera iterativa",
+      "Asegurar que todas las fases del desarrollo se completen en secuencia",
+      "Minimizar el riesgo mediante el prototipado",
+      "Utilizar una estructura de control centralizada"
+    ],
+    "respuesta_correcta": "Asegurar que todas las fases del desarrollo se completen en secuencia"
+  },
+
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta sobre el modelo en V?",
+    "opciones": [
+      "No permite retroceder a fases anteriores",
+      "Se enfoca en la verificación del diseño y la validación de los requisitos",
+      "Es un modelo puramente secuencial sin pruebas intermedias",
+      "Es una versión del modelo en cascada que elimina la fase de pruebas"
+    ],
+    "respuesta_correcta": "Se enfoca en la verificación del diseño y la validación de los requisitos"
+  },
+
+  {
+    "pregunta": "¿Qué es el prototipo evolutivo en el desarrollo de software?",
+    "opciones": [
+      "Un modelo descartable usado solo para identificar requisitos",
+      "Una maqueta que muestra visualmente las entradas y salidas del sistema",
+      "Un prototipo que se mejora y modifica continuamente hasta convertirse en el sistema final",
+      "Un prototipo estático que no recibe datos reales"
+    ],
+    "respuesta_correcta": "Un prototipo que se mejora y modifica continuamente hasta convertirse en el sistema final"
+  },
+
+  {
+    "pregunta": "¿Qué enfoque permite mejorar un software continuamente mientras se entrega funcionalidad en cada iteración?",
+    "opciones": [
+      "Modelo en cascada",
+      "Modelo incremental",
+      "Modelo iterativo",
+      "Modelo en espiral"
+    ],
+    "respuesta_correcta": "Modelo incremental"
+  },
+
+  {
+    "pregunta": "¿Qué técnica permite calcular el costo y esfuerzo de un proyecto mediante una estructura jerárquica que descompone sus fases?",
+    "opciones": [
+      "Estimación por Puntos de Función",
+      "Estimación COCOMO",
+      "Estimación por LDC",
+      "Estimación PERT"
+    ],
+    "respuesta_correcta": "Estimación COCOMO"
+  },
+
+  {
+    "pregunta": "¿Qué elemento clave se debe considerar al seleccionar un ciclo de vida de software?",
+    "opciones": [
+      "El nivel de satisfacción del cliente",
+      "La naturaleza del proyecto y los requisitos",
+      "La cantidad de personal disponible",
+      "La experiencia previa del equipo"
+    ],
+    "respuesta_correcta": "La naturaleza del proyecto y los requisitos"
+  },
+
+  {
+    "pregunta": "En el enfoque de 4P, ¿qué representa la P de Producto?",
+    "opciones": [
+      "La calidad del código",
+      "El software que se va a desarrollar y los objetivos de información",
+      "El presupuesto asignado al proyecto",
+      "Los plazos de entrega del software"
+    ],
+    "respuesta_correcta": "El software que se va a desarrollar y los objetivos de información"
+  },
+
+  {
+    "pregunta": "¿Cuál es una de las estrategias reactivas en la gestión de riesgos en software?",
+    "opciones": [
+      "Identificar y planificar la gestión de riesgos antes de que ocurran",
+      "Resolver los problemas una vez que ya han sucedido",
+      "Evitar tomar riesgos en absoluto",
+      "Utilizar modelos probabilísticos para prever riesgos"
+    ],
+    "respuesta_correcta": "Resolver los problemas una vez que ya han sucedido"
+  },
+
+  {
+    "pregunta": "¿Qué técnica permite determinar la probabilidad de ocurrencia de un riesgo en un proyecto de software?",
+    "opciones": [
+      "Análisis de la configuración",
+      "Escalas cualitativas como improbable, probable, frecuente",
+      "Estimación por puntos de función",
+      "Juicio experto basado en proyectos similares"
+    ],
+    "respuesta_correcta": "Escalas cualitativas como improbable, probable, frecuente"
+  },
+
+  {
+    "pregunta": "¿Qué tipo de riesgo afecta la calidad del software durante su desarrollo?",
+    "opciones": [
+      "Riesgo técnico",
+      "Riesgo del cliente",
+      "Riesgo predecible",
+      "Riesgo interno"
+    ],
+    "respuesta_correcta": "Riesgo técnico"
+  },
+
+  {
+    "pregunta": "¿Qué herramienta de gestión permite identificar las tareas críticas en la planificación de un proyecto de software?",
+    "opciones": [
+      "Estimación PERT",
+      "Diagrama de Gantt",
+      "Estructura de Desglose de Trabajo (WBS)",
+      "Estimación COCOMO"
+    ],
+    "respuesta_correcta": "Estimación PERT"
+  },
+
+  {
+    "pregunta": "¿Qué implica la técnica de 'crashing' en la gestión de proyectos de software?",
+    "opciones": [
+      "Aumentar los recursos en las tareas críticas para reducir su duración",
+      "Dividir el proyecto en fases iterativas",
+      "Desarrollar prototipos evolutivos para acelerar el desarrollo",
+      "Reducir la cantidad de personal para tareas menos importantes"
+    ],
+    "respuesta_correcta": "Aumentar los recursos en las tareas críticas para reducir su duración"
+  },
+
+  {
+    "pregunta": "¿Cuál es el propósito de la Gestión de la Configuración del Software?",
+    "opciones": [
+      "Asegurar que el cliente está satisfecho con la interfaz de usuario",
+      "Gestionar los cambios a lo largo del ciclo de vida del software",
+      "Reducir el tamaño del código fuente",
+      "Eliminar la necesidad de pruebas manuales"
+    ],
+    "respuesta_correcta": "Gestionar los cambios a lo largo del ciclo de vida del software"
+  },
+
+  {
+    "pregunta": "¿Qué técnica se basa en descomponer el proceso de desarrollo en actividades y estimar el esfuerzo necesario para cada una?",
+    "opciones": [
+      "Estimación por Puntos de Función",
+      "Estimación basada en el proceso",
+      "Estimación paramétrica",
+      "Técnica LDC"
+    ],
+    "respuesta_correcta": "Estimación basada en el proceso"
+  },
+
+  {
+    "pregunta": "¿Qué significa el proceso de post-desarrollo en ingeniería de software?",
+    "opciones": [
+      "La fase de diseño y desarrollo",
+      "Las actividades realizadas después de la construcción del software, como instalación, operación, mantenimiento y retiro",
+      "El proceso de pruebas",
+      "La creación de documentación técnica"
+    ],
+    "respuesta_correcta": "Las actividades realizadas después de la construcción del software, como instalación, operación, mantenimiento y retiro"
+  },
+
+  {
+    "pregunta": "¿Cuál es la importancia de la 'maduración del producto y del proceso' en la planificación de proyectos de software?",
+    "opciones": [
+      "Representa el inicio de la codificación",
+      "Permite establecer actividades estructurales como comunicación con el cliente, análisis de riesgos y entrega del proyecto",
+      "Sirve para medir la productividad del equipo",
+      "Es un proceso usado solo en la fase de mantenimiento"
+    ],
+    "respuesta_correcta": "Permite establecer actividades estructurales como comunicación con el cliente, análisis de riesgos y entrega del proyecto"
+  },
+
+  {
+    "pregunta": "¿Qué modelo de ciclo de vida permite un desarrollo más flexible y adaptable a cambios en los requisitos?",
+    "opciones": [
+      "Modelo en cascada",
+      "Modelo iterativo",
+      "Modelo en V",
+      "Modelo incremental"
+    ],
+    "respuesta_correcta": "Modelo iterativo"
+  },
+
+  {
     "pregunta": "",
     "opciones": [""],
     "respuesta_correcta": ""
